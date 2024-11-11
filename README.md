@@ -61,8 +61,8 @@ ecommerce-api/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-api.git
-   cd ecommerce-api
+   git clone https://github.com/Dibyendu-13/golang_ecommerce_project.git
+   cd golang_ecommerce_project
    ```
 2. Start the database:
    ```bash
